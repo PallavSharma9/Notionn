@@ -1,2 +1,3 @@
-# Notionn
+# notion-clone
+
 Notion Clone
